@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "61377f929a3cc31800dc3001",
+    "title": "post1",
+    "author": {
+      "$oid": "6134e8348da0b8d25d0cb452"
+    }
+  },
+  {
+    "_id": "61377f929a3cc31800dc3002",
+    "title": "post2",
+    "author": {
+      "$oid": "6134e8348da0b8d25d0cb452"
+    }
+  },
+  {
+    "_id": "61377f929a3cc31800dc3003",
+    "title": "post3",
+    "author": {
+      "$oid": "6134e8348da0b8d25d0cb452"
+    }
+  }
+]

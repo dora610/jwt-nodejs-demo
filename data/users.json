@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6134e8348da0b8d25d0cb452"
+  },
+  "name": "Binod",
+  "age": 30,
+  "hobby": "Creates memes",
+  "hash": "$2b$10$cCWR2imavSOzuYvl4i2NTejyEW3QdC2HPg5RJfvc0/CVnnkmkGZBW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6134e9566dd2e1106d2465ba"
+  },
+  "name": "Dipu",
+  "age": 40,
+  "hobby": "Play snooker",
+  "hash": "$2b$10$X4b278pXw30grwZbeDoae.jetr/ox36UFLQYCOUw/1glL5e8pCMd2",
+  "__v": 0
+}]
